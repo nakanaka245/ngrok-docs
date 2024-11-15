@@ -1,0 +1,20 @@
+<!-- Code generated for API Clients. DO NOT EDIT. -->
+
+#### Example Response
+
+```json
+{
+	"agent_version": "3.1000.0-development",
+	"credential": {
+		"id": "cr_2otEmOvTl7BlVxya4JQKO7if024",
+		"uri": "https://api.ngrok.com/credentials/cr_2otEmOvTl7BlVxya4JQKO7if024"
+	},
+	"id": "ts_2otEmjC0n7Upuw7LGq7VZTJca5O",
+	"ip": "10.110.2.2",
+	"os": "linux",
+	"region": "us",
+	"started_at": "2024-11-15T14:23:52Z",
+	"transport": "ngrok/2",
+	"uri": "https://api.ngrok.com/tunnel_sessions/ts_2otEmjC0n7Upuw7LGq7VZTJca5O"
+}
+```
